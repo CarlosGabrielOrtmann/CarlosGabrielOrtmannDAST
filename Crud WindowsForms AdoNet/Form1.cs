@@ -32,5 +32,38 @@ namespace Crud_WindowsForms_AdoNet
         {
             Refresh();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FrmNuevo frm = new FrmNuevo();
+            frm.ShowDialog();
+            Refresh();
+        }
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int? Id = GetId();
+            if (Id != null)
+            {
+                FrmNuevo frmEdit = new FrmNuevo(Id.Value);
+                frmEdit.ShowDialog();
+                Refresh();
+            }
+        }
+
+        #region HELPER
+        private int? GetId()
+        {
+            try
+            {
+                return int.Parse(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[0].Value.ToString());
+            }
+            catch
+            {
+                return null;
+            }
+        }
+        #endregion
+
+
     }
 }
