@@ -148,6 +148,29 @@ namespace Crud_WindowsForms_AdoNet
                 }
             }
         }
+        public void Delete(int Id)
+        {
+            string query = "delete from people" + " where Id=@id";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@id", Id);
+
+
+                try
+                {
+                    connection.Open();
+                    command.ExecuteNonQuery();
+
+                    connection.Close();
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("Hay un error en la bd" + ex.Message);
+                }
+            }
+        }
 
     }
     public class People

@@ -49,6 +49,33 @@ namespace Crud_WindowsForms_AdoNet
                 Refresh();
             }
         }
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int? Id = GetId();
+            try
+            {
+                if (Id != null)
+                {
+                    if (MessageBox.Show("¿Seguro que deseas eliminar este registro?",
+                                        "Confirmar eliminación",
+                                        MessageBoxButtons.YesNo,
+                                        MessageBoxIcon.Question) == DialogResult.Yes)
+                    {
+                        PeopleDB oPeopleDB = new PeopleDB();
+                        oPeopleDB.Delete(Id.Value);
+                        Refresh();
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Seleccione un registro para eliminar.");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ocurrió un error al eliminar: " + ex.Message);
+            }
+        }
 
         #region HELPER
         private int? GetId()
@@ -62,6 +89,7 @@ namespace Crud_WindowsForms_AdoNet
                 return null;
             }
         }
+
         #endregion
 
 
