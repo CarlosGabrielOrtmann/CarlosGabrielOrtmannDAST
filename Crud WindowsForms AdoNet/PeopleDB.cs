@@ -9,7 +9,7 @@ namespace Crud_WindowsForms_AdoNet
 {
     public class PeopleDB
     {
-        private string connectionString = "Data Source=localhost\\SQLEXPRESS; Initial Catalog=CrudWindowsForm; Integrated Security=True; TrustServerCertificate=True;";
+        private string connectionString = "Data Source=PCGABY\\SQLEXPRESS;Initial Catalog=CrudWindowsForm;Integrated Security=True";
 
 
 
