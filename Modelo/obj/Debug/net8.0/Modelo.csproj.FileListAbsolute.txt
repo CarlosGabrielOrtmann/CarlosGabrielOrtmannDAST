@@ -1,0 +1,15 @@
+C:\Users\Navegador\source\repos\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\Navegador\source\repos\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\Navegador\source\repos\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\Navegador\source\repos\Modelo\bin\Debug\net8.0\Entidades.dll
+C:\Users\Navegador\source\repos\Modelo\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Navegador\source\repos\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\source\repos\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Navegador\source\repos\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\Navegador\source\repos\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\Modelo\obj\Debug\net8.0\Modelo.csproj.Up2Date
+C:\Users\Navegador\source\repos\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\Navegador\source\repos\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\Navegador\source\repos\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\Navegador\source\repos\Modelo\obj\Debug\net8.0\ref\Modelo.dll
