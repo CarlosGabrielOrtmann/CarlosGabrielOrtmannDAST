@@ -1,0 +1,17 @@
+C:\Users\Navegador\source\repos\Controladora\bin\Debug\net8.0\Controladora.deps.json
+C:\Users\Navegador\source\repos\Controladora\bin\Debug\net8.0\Controladora.dll
+C:\Users\Navegador\source\repos\Controladora\bin\Debug\net8.0\Controladora.pdb
+C:\Users\Navegador\source\repos\Controladora\bin\Debug\net8.0\Entidades.dll
+C:\Users\Navegador\source\repos\Controladora\bin\Debug\net8.0\Modelo.dll
+C:\Users\Navegador\source\repos\Controladora\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Navegador\source\repos\Controladora\bin\Debug\net8.0\Modelo.pdb
+C:\Users\Navegador\source\repos\Controladora\obj\Debug\net8.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\Controladora\obj\Debug\net8.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\source\repos\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\Navegador\source\repos\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfo.cs
+C:\Users\Navegador\source\repos\Controladora\obj\Debug\net8.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\Controladora\obj\Debug\net8.0\Controla.1EE7A4DA.Up2Date
+C:\Users\Navegador\source\repos\Controladora\obj\Debug\net8.0\Controladora.dll
+C:\Users\Navegador\source\repos\Controladora\obj\Debug\net8.0\refint\Controladora.dll
+C:\Users\Navegador\source\repos\Controladora\obj\Debug\net8.0\Controladora.pdb
+C:\Users\Navegador\source\repos\Controladora\obj\Debug\net8.0\ref\Controladora.dll
